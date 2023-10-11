@@ -48,6 +48,19 @@ _物流工程学院 - 自动化_
 | GitHub | [InariInDream](https://github.com/InariInDream)    |
 | Blog   | [https://inariindream.cn](https://inariindream.cn) |
 
+### 邓明
+
+_信息工程学院 - 计算机科学与技术_
+
+上海海事大学ICPC选手。早期加入ICPC的同学之一,海智人工智能俱乐部社长，获得过两次学校特等奖学金。
+
+他保研至[上海大学](https://www.shu.edu.cn)。
+
+| 方式     | 信息                                                 |
+|:-------|:---------------------------------------------------|
+| Email  | [dengming@shmtuaa.org](mailto:dengming@shmtuaa.org)  |
+| GitHub | [Chranos](https://github.com/Chranos)    |
+
 ## 2019级
 
 ### 杜逸杰
